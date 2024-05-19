@@ -1,0 +1,67 @@
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\appsettings.Development.json
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\appsettings.json
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\ReplenishmentSimulator.exe
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\ReplenishmentSimulator.deps.json
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\ReplenishmentSimulator.runtimeconfig.json
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\ReplenishmentSimulator.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\ReplenishmentSimulator.pdb
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.csproj.AssemblyReference.cache
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.AssemblyInfoInputs.cache
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.AssemblyInfo.cs
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.csproj.CoreCompileInputs.cache
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.MvcApplicationPartsAssemblyInfo.cs
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.MvcApplicationPartsAssemblyInfo.cache
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\staticwebassets.build.json
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\staticwebassets.development.json
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\staticwebassets\msbuild.ReplenishmentSimulator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\staticwebassets\msbuild.build.ReplenishmentSimulator.props
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReplenishmentSimulator.props
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReplenishmentSimulator.props
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\staticwebassets.pack.json
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\scopedcss\bundle\ReplenishmentSimulator.styles.css
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\Replenis.7A5B0B19.Up2Date
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\refint\ReplenishmentSimulator.dll
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.pdb
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ReplenishmentSimulator.genruntimeconfig.cache
+D:\U\Semestre 7\Arquitectura de software\Talleres\Taller 2.NET\ReplenishmentSimulator\obj\Debug\net8.0\ref\ReplenishmentSimulator.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\appsettings.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\ReplenishmentSimulator.exe
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\ReplenishmentSimulator.deps.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\ReplenishmentSimulator.runtimeconfig.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\ReplenishmentSimulator.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\ReplenishmentSimulator.pdb
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.csproj.AssemblyReference.cache
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.AssemblyInfoInputs.cache
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.AssemblyInfo.cs
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.csproj.CoreCompileInputs.cache
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.sourcelink.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\staticwebassets\msbuild.ReplenishmentSimulator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\staticwebassets\msbuild.build.ReplenishmentSimulator.props
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ReplenishmentSimulator.props
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ReplenishmentSimulator.props
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\scopedcss\bundle\ReplenishmentSimulator.styles.css
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\Replenis.7A5B0B19.Up2Date
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\refint\ReplenishmentSimulator.dll
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.pdb
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ReplenishmentSimulator.genruntimeconfig.cache
+C:\Users\jc_pa\Documents\7mo semestre\Arquitectura de SW\Taller 2 (Proveedor)\Simulador-restablecer-productos\obj\Debug\net8.0\ref\ReplenishmentSimulator.dll
